@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ja" datatype="html" original="https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-1.html">
+    <body>
+      <group>
+        <trans-unit id="a1b93ca263a04383672a011d1eaa74f12964afe0920abca763598602d08787eb" translate="yes">
+          <source>keyofand Lookup Types#</source>
+          <target state="new">keyofand Lookup Types#</target>
+        </trans-unit>       
+      </group>
+    </body>
+  </file>
+</xliff>
